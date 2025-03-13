@@ -1,6 +1,9 @@
 <H1>Iris Classifier</H1>
 
 Este projeto utiliza Python para implementar um modelo de Inteligência Artificial que classifica flores da base de dados Iris. O objetivo é treinar um modelo de aprendizado supervisionado para alcançar um Score = 1.0 e um Erro Quadrático Médio = 0.0.
+<h2>🔗 Link do Projeto</h2>
+https://replit.com/@YukioLucas1/irisClassifier?v=1
+
 <h2>📌 Tecnologias utilizadas</h2>
 
     Python
@@ -56,5 +59,4 @@ O modelo foi otimizado com GridSearchCV, alcançando:
 
 Isso significa que o modelo conseguiu classificar todas as amostras corretamente, atingindo o objetivo da atividade.
 
-<h2>🔗 Link do Projeto</h2>
-https://replit.com/@YukioLucas1/irisClassifier?v=1
+
