@@ -45,16 +45,28 @@ O modelo utilizado foi um Random Forest Classifier, que foi escolhido por sua ro
 A base foi dividida em 80% para treinamento e 20% para teste, garantindo generalização do modelo.
 📈 Análise da Correlação
 
-Gráficos foram gerados para visualizar a relação entre os atributos e a classe-alvo. A análise revelou:
+Gráficos foram gerados:
+![image](https://github.com/user-attachments/assets/ec1a6675-aafd-4a89-9f2f-9f7e832f5866)
 
-    Correlação positiva forte entre Petal Length e a classe.
-    Correlação fraca entre Sepal Width e a classe.
+![image](https://github.com/user-attachments/assets/c608cdaa-cfdf-4045-8e41-72ac1ed134c0)
+
+![image](https://github.com/user-attachments/assets/c38f795e-6cb6-45b4-935e-a3d760931ad1)
+
+![image](https://github.com/user-attachments/assets/17325e9d-a705-4ee1-b317-794497f731be)
+
+
+
+
+
 
 <h2>📉 Análise do Erro</h2>
 
 O modelo foi otimizado com GridSearchCV, alcançando:
 ✅ Score: 1.0
 ✅ Erro Quadrático Médio: 0.0
+
+![image](https://github.com/user-attachments/assets/b577d8c4-222f-440a-8c63-1a73e2297f99)
+
 
 Isso significa que o modelo conseguiu classificar todas as amostras corretamente, atingindo o objetivo da atividade.
 
