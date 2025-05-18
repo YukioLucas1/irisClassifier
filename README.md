@@ -14,15 +14,6 @@ https://replit.com/@YukioLucas1/irisClassifier?v=1
 
 O código foi desenvolvido e testado utilizando o ambiente Replit, permitindo fácil execução e compartilhamento do projeto.
 
-<h2>📂 Estrutura do projeto</h2>
-
- ├── .gitignore  
- ├── .replit               # Configuração do Replit  
- ├── iris.data             # Base de dados  
- ├── main.py               # Código principal  
- ├── pyproject.toml        # Dependências do projeto  
- ├── README.md             # Documento explicativo  
-
 <h2>📊 Base de Dados</h2>
 
     Nome: Iris
