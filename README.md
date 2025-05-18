@@ -29,14 +29,14 @@ O código foi desenvolvido e testado utilizando o ambiente Replit, permitindo f�
         Versicolor: 50 amostras
         Virginica: 50 amostras
 
-<h2>🔍 Modelo Utilizado</h2>
+<h2>🔍 Técnica e tipo de aprendizado</h2>
 
-O modelo utilizado foi um Random Forest Classifier, que foi escolhido por sua robustez e capacidade de lidar bem com pequenos conjuntos de dados sem sobreajuste.
+Foi feito uma regressão logística por meio de um estudo supervisionado
 
 A base foi dividida em 80% para treinamento e 20% para teste, garantindo generalização do modelo.
 📈 Análise da Correlação
 
-Gráficos foram gerados:
+Gráficos gerados:
 
 ![image](https://github.com/user-attachments/assets/ec1a6675-aafd-4a89-9f2f-9f7e832f5866)
 
