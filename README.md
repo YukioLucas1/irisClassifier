@@ -60,9 +60,8 @@ Gráficos foram gerados:
 
 
 
-<h2>📉 Análise do Erro</h2>
+<h2>📉 Resultados </h2>
 
-O modelo foi otimizado com GridSearchCV, alcançando:
 ✅ Score: 1.0
 ✅ Erro Quadrático Médio: 0.0
 
