@@ -4,18 +4,16 @@ Este projeto utiliza Python para implementar um modelo de Inteligência Artifici
 <h2>🔗 Link do Projeto</h2>
 https://replit.com/@YukioLucas1/irisClassifier?v=1
 
-<h2>📌 Tecnologias utilizadas</h2>
+<h2>📌 bibliotecas utilizadas</h2>
 
-    Python
     Pandas
     NumPy
     Scikit-learn
     Seaborn & Matplotlib
 
 O código foi desenvolvido e testado utilizando o ambiente Replit, permitindo fácil execução e compartilhamento do projeto.
-📂 Estrutura do projeto
 
-<h2>📦 Iris Classifier</h2>
+<h2>📂 Estrutura do projeto</h2>
 
  ├── .gitignore  
  ├── .replit               # Configuração do Replit  
